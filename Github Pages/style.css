@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: whitesmoke;
+  background-color: rgb(103, 73, 33);
+}
+
+canvas {
+  margin: auto;
+  display: block;
+}
